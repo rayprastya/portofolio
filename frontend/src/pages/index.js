@@ -31,9 +31,9 @@ const Home = () => {
     <div className="bg-background-color min-h-screen text-text-color">
             <header className="header flex items-center justify-center h-screen">
                 <div className="text-center">
-                    <h1 className="text-6xl font-bold">Your Name</h1>
-                    <p className="text-2xl mt-4">Web Developer | Graphic Designer</p>
-                    <a href="#contact" className="btn mt-8">Contact Me</a>
+                    <h1 className="text-6xl font-bold">Zulham Zamrun</h1>
+                    <h4 className="text-2xl mt-4">Backend Developer | Fullstack Developer</h4>
+                    {/* <a href="#contact" className="btn mt-8">Contact Me</a> */}
                 </div>
             </header>
 
